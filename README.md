@@ -1,6 +1,8 @@
 # ILSE
 Linear regression based on Iterative Least Square Estimation (ILSE) for missing data Use ilse With (In) R software
 
+https://www.youtube.com/watch?v=cGXkteXN6xY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
